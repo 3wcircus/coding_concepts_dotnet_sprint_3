@@ -533,5 +533,6 @@ public class Program
 
 ### General Resources 
 - [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
+- [Query Expression Overview](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/#query-expression-overview)
 
 [Back to Top](#Top)
